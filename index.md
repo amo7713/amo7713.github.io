@@ -1,5 +1,5 @@
-![图片描述](https://github.com/amo7713/amo7713.github.io/blob/main/1.jpg.png)
-![证件照](/https://github.com/amo7713/amo7713.github.io/blob/main/1.jpg.png）
+![图片描述](/jpg.png)
+![证件照](/jpg.png）
 <table border="0">
   <tr>
     <td width="75%">
@@ -10,7 +10,7 @@
       <p><b>地址：宁波市鄞州区盛莫路1519号浙江万里大学，6楼，邮编31250</b></p>
     </td>
     <td width="25%">
-      <img src="/" width="100%">      % 插入证件照代码
+      <img src="/jpg.png" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
