@@ -1,5 +1,4 @@
-![图片描述](/timg.jpg)
-![证件照](/timg.jpg）
+
 <table border="0">
   <tr>
     <td width="75%">
