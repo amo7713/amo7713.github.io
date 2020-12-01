@@ -1,5 +1,5 @@
-![图片描述](https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E5%BE%88%E7%81%AB%E7%9A%84%E6%A9%98%E7%8C%AB%E5%A4%B4%E5%83%8F&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=-1&hd=undefined&latest=undefined&copyright=undefined&cs=2439411636,1647907463&os=11366555,2875958138&simid=3536934947,362250283&pn=2&rn=1&di=50050&ln=1141&fr=&fmq=1606801988221_R&fm=rs3&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&oriquery=%E5%B0%8F%E6%A9%98%E7%8C%AB&objurl=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202001%2F09%2F20200109165402_gejvc.thumb.400_0.jpg&rpstart=0&rpnum=0&adpicid=0&force=undefined)
-![证件照](/
+![图片描述](https://github.com/amo7713/amo7713.github.io/blob/main/1.jpg.png)
+![证件照](/https://github.com/amo7713/amo7713.github.io/blob/main/1.jpg.png）
 <table border="0">
   <tr>
     <td width="75%">
